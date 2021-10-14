@@ -1,0 +1,4 @@
+White: #0000000
+Light: #ebebeb
+Normal: #ffcece
+Flag: #fd9191
